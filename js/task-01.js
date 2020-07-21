@@ -1,3 +1,5 @@
+console.log('Задание 1');
+
 const user = {
   name: 'Mango',
   age: 20,

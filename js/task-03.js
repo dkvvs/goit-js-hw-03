@@ -1,4 +1,6 @@
-const findBestEmployee = function(employees) {
+console.log('Задание 3');
+
+const findBestEmployee = function (employees) {
   const keys = Object.keys(employees);
   const values = Object.values(employees);
 
